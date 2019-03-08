@@ -1,0 +1,14 @@
+D:\Downloads\SEDC\C# Homework\Class03\Exercise03\Exercise03\obj\Debug\Exercise03.csprojAssemblyReference.cache
+D:\Downloads\SEDC\C# Homework\Class03\Exercise03\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\C# Homework\Class03\Exercise03\Exercise03\bin\Debug\Exercise03.exe.config
+D:\Downloads\SEDC\C# Homework\Class03\Exercise03\Exercise03\bin\Debug\Exercise03.exe
+D:\Downloads\SEDC\C# Homework\Class03\Exercise03\Exercise03\bin\Debug\Exercise03.pdb
+D:\Downloads\SEDC\C# Homework\Class03\Exercise03\Exercise03\obj\Debug\Exercise03.exe
+D:\Downloads\SEDC\C# Homework\Class03\Exercise03\Exercise03\obj\Debug\Exercise03.pdb
+D:\Downloads\SEDC\C# Homework\Class03\Viktor-Mijalchev-G2\Exercise03\Exercise03\bin\Debug\Exercise03.exe.config
+D:\Downloads\SEDC\C# Homework\Class03\Viktor-Mijalchev-G2\Exercise03\Exercise03\bin\Debug\Exercise03.exe
+D:\Downloads\SEDC\C# Homework\Class03\Viktor-Mijalchev-G2\Exercise03\Exercise03\bin\Debug\Exercise03.pdb
+D:\Downloads\SEDC\C# Homework\Class03\Viktor-Mijalchev-G2\Exercise03\Exercise03\obj\Debug\Exercise03.csprojAssemblyReference.cache
+D:\Downloads\SEDC\C# Homework\Class03\Viktor-Mijalchev-G2\Exercise03\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\C# Homework\Class03\Viktor-Mijalchev-G2\Exercise03\Exercise03\obj\Debug\Exercise03.exe
+D:\Downloads\SEDC\C# Homework\Class03\Viktor-Mijalchev-G2\Exercise03\Exercise03\obj\Debug\Exercise03.pdb
