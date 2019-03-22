@@ -1,0 +1,10 @@
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\bin\Debug\Movie app.exe.config
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\bin\Debug\Movie app.exe
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\bin\Debug\Movie app.pdb
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\bin\Debug\My Library.dll
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\bin\Debug\My Library.pdb
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\obj\Debug\Movie app.csprojAssemblyReference.cache
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\obj\Debug\Movie app.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\obj\Debug\Movie app.csproj.CopyComplete
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\obj\Debug\Movie app.exe
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\Movie app\obj\Debug\Movie app.pdb

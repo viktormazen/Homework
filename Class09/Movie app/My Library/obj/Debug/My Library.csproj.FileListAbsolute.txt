@@ -1,0 +1,6 @@
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\My Library\bin\Debug\My Library.dll
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\My Library\bin\Debug\My Library.pdb
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\My Library\obj\Debug\My Library.csprojAssemblyReference.cache
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\My Library\obj\Debug\My Library.csproj.CoreCompileInputs.cache
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\My Library\obj\Debug\My Library.dll
+D:\Downloads\SEDC\C# Homework\cas9\Class09\Movie app\My Library\obj\Debug\My Library.pdb
